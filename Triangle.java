@@ -1,1 +1,2 @@
 Print triangle
+Print image
